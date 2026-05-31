@@ -1,0 +1,37 @@
+plant_id,plant_name,week,height_cm
+1,Mung Bean A,1,2.1
+1,Mung Bean A,2,4.3
+1,Mung Bean A,3,11.8
+1,Mung Bean A,4,3.0
+1,Mung Bean A,5,8.5
+1,Mung Bean A,6,10.2
+2,Mung Bean B,1,1.9
+2,Mung Bean B,2,4.1
+2,Mung Bean B,3,0.0
+2,Mung Bean B,4,0.0
+2,Mung Bean B,5,6.3
+2,Mung Bean B,6,8.8
+3,Mung Bean C,1,2.5
+3,Mung Bean C,2,4.8
+3,Mung Bean C,3,7.1
+3,Mung Bean C,4,7.1
+3,Mung Bean C,5,7.1
+3,Mung Bean C,6,9.4
+4,Sunflower A,1,3.2
+4,Sunflower A,2,6.8
+4,Sunflower A,3,10.5
+4,Sunflower A,4,8.1
+4,Sunflower A,5,14.2
+4,Sunflower A,6,18.6
+5,Sunflower B,1,4.0
+5,Sunflower B,2,7.5
+5,Sunflower B,3,19.0
+5,Sunflower B,4,14.0
+5,Sunflower B,5,16.8
+5,Sunflower B,6,20.1
+6,Pechay A,1,1.2
+6,Pechay A,2,2.8
+6,Pechay A,3,4.5
+6,Pechay A,4,4.5
+6,Pechay A,5,4.5
+6,Pechay A,6,7.2
